@@ -1,9 +1,9 @@
 ### Hi, how are you? 🦄
-<p>My name is Marcos Neto, born in 1995 and currently live in Aracaju, SE - Brasil.</p>
+<p>My name is <strong>Marcos Neto</strong>, born in 1995 and currently live in <strong>Aracaju, SE - Brasil.</strong></p>
 
-<p>👨‍💻 My first contact with programming was at the university in 2014 and I have been in a serious relationship with front-end development since 2019.</p>
+<p>👨‍💻 My first contact with programming was at the university (UFS) in 2014 and I have been in a serious relationship with front-end development since 2019.</p>
 
-<p>I currently work on technologies: ReactJS, GraphQL, HTML & CSS. In addition to these, I am learning to perform tests in JavaScript and TypeScript.</p>
+<p>I currently work on technologies: <strong>ReactJS, GraphQL, HTML & CSS</strong>. In addition to these, I am learning to perform <strong>tests in JavaScript and TypeScript.</strong></p>
 
 <p>In addition to writing colorful words, my favorite hobbies are: listening to music (of all the rhythms that you can imagine) and creating choreographies for each one 💃🏿</p>
 
