@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, how are you? 🦄
+<p>My name is Marcos Neto, born in 1995 and currently live in Aracaju, SE - Brasil.</p>
+
+<p>👨‍💻 My first contact with programming was at the university in 2014 and I have been in a serious relationship with front-end development since 2019.</p>
+
+<p>I currently work on technologies: ReactJS, GraphQL, HTML & CSS. In addition to these, I am learning to perform tests in JavaScript and TypeScript.</p>
+
+<p>In addition to writing colorful words, my favorite hobbies are: listening to music (of all the rhythms that you can imagine) and creating choreographies for each one 💃🏿</p>
 
 <!--
 **Marcosnto/marcosnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
