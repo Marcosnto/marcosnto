@@ -1,6 +1,6 @@
 <h1 align="center">alô, quem fala?</h1>
 
-<p  align="center">fazedor de telinhas diretamente de terras sergipanas 🌵</p>
+<p  align="center">criador de telinhas diretamente de terras sergipanas 🌵</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcosnto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
