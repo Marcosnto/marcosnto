@@ -1,24 +1,16 @@
-<h1 align="center">alô, quem fala?</h1>
+<h1 align="center">Olá!</h1>
 
-<p  align="center">criador de telinhas diretamente de terras sergipanas 🌵</p>
+<div align="center">
+  <p>welcome to my sandbox 🌵</p>
+  <p>here you'll find a mixer of aleatory knowloges, but trust me is the way that i learning things 👾</p>
+  <h4>🌱 Topics that I'm currently learning: </h4>
+  <p>JavaScript ॰ Typescript ॰ React ॰ Unit Test</p>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcosnto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/marcoznto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <!--
+    <a href="https://twitter.com/marcoznto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  -->
 </div>
 
-
-<!--
-**Marcosnto/marcosnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
