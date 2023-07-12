@@ -4,7 +4,7 @@
   <p>welcome to my sandbox 🌵</p>
   <p>here you'll find a mixer of aleatory knowloges, but trust me is the way that i learning things 👾</p>
   <h4>🌱 Topics that I'm currently learning: </h4>
-  <p>JavaScript ॰ Typescript ॰ React ॰ Frontend Tests ॰ AWS </p>
+  <p>JavaScript ॰ Typescript ॰ React ॰ Unit Tests ॰ AWS </p>
 </div>
 
 <div align="center">
